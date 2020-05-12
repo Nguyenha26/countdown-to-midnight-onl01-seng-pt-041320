@@ -8,4 +8,4 @@ def countdown
     puts "HAPPY NEW YEAR!"
 end
 
-puts "#{countdown}"
+puts countdown
